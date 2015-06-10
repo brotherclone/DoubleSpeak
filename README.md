@@ -1,7 +1,7 @@
 # DoubleSpeak
 ##_DO , _U , _OB , _OO , _LE, _SE , _PE , _EE , _EK,
 
-is a phoneme Synthsesizer built with Arduino Uno and GinSing.
+is a phoneme Synthesizer built with Arduino Uno and GinSing.
 
 ##Requirements
 
