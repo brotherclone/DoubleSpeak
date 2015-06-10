@@ -5,16 +5,16 @@ is a phoneme Synthsesizer built with Arduino Uno and GinSing.
 
 ##Requirements
 
-Potentiometer.h
-GinSing.h
+* Potentiometer.h
+* GinSing.h
 
 ## Controls
 
-Phoneme
-Breath
-Octave
-Pitch
-Interval
+* Phoneme
+* Breath
+* Octave
+* Pitch
+* Interval
 
 ##Instructions
 
